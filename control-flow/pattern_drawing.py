@@ -1,5 +1,5 @@
 while True:
-    pattern_size = int(input("Enter the size of the pattern (must be positive): "))
+    pattern_size = int(input("Enter the size of the pattern: "))
     if pattern_size > 0:
         break
     print("Please enter a positive integer.")
